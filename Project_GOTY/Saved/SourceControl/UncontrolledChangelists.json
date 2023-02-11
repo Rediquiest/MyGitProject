@@ -6,8 +6,16 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"E:/Game/MyGitProject/Project_GOTY/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3J/6B9RJI3FDPCETRKXUXCQ4C.uasset",
-				"E:/Game/MyGitProject/Project_GOTY/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/6L/N0I82VVO7T8FDL1TT2MAZV.uasset",
-				"E:/Game/MyGitProject/Project_GOTY/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/YA/U7DWA6ZZ14W82377RRXV6D.uasset"
+				"E:/Game/MyGitProject/Project_GOTY/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/YA/U7DWA6ZZ14W82377RRXV6D.uasset",
+				"E:/Game/MyGitProject/Project_GOTY/Content/CrouchAnimation/NewBlendSpace.uasset",
+				"E:/Game/MyGitProject/Project_GOTY/Content/CrouchAnimation/Crouched_To_Standing.uasset",
+				"E:/Game/MyGitProject/Project_GOTY/Content/CrouchAnimation/Crouched_Walking.uasset",
+				"E:/Game/MyGitProject/Project_GOTY/Content/CrouchAnimation/Crouching_Idle.uasset",
+				"E:/Game/MyGitProject/Project_GOTY/Content/CrouchAnimation/Standing_To_Crouched.uasset",
+				"E:/Game/MyGitProject/Project_GOTY/Content/CrouchAnimation/CrouchBS.uasset",
+				"E:/Game/MyGitProject/Project_GOTY/Content/BP_ThirdPersonCharacter.uasset",
+				"E:/Game/MyGitProject/Project_GOTY/Content/Project_Folder/Characters/Character_Animation_Blueprint.uasset",
+				"E:/Game/MyGitProject/Project_GOTY/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/6L/N0I82VVO7T8FDL1TT2MAZV.uasset"
 			]
 		}
 	]
