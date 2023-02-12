@@ -5,12 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-<<<<<<< Updated upstream
-				"E:/Game/MyGitProject/Project_GOTY/Content/StaminaWidget.uasset",
-				"E:/Game/MyGitProject/Project_GOTY/Content/BP_ThirdPersonCharacter.uasset"
-=======
+				"C:/Users/Admin/Documents/GitHub/MyGitProject/Project_GOTY/Content/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/Admin/Documents/GitHub/MyGitProject/Project_GOTY/Content/StaminaWidget.uasset"
->>>>>>> Stashed changes
 			]
 		}
 	]
