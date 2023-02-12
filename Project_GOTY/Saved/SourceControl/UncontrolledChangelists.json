@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/Game/MyGitProject/Project_GOTY/Content/BP_ThirdPersonCharacter.uasset",
+				"E:/Game/MyGitProject/Project_GOTY/Content/Landed.uasset",
+				"E:/Game/MyGitProject/Project_GOTY/Content/Landed_CS.uasset",
 				"C:/Users/Admin/Documents/GitHub/MyGitProject/Project_GOTY/Content/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/Admin/Documents/GitHub/MyGitProject/Project_GOTY/Content/Project_Folder/Characters/Animations/Prone_Forward.uasset",
 				"C:/Users/Admin/Documents/GitHub/MyGitProject/Project_GOTY/Content/Project_Folder/Characters/Animations/Prone_Idle.uasset",
