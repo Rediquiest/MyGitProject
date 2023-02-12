@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/Game/MyGitProject/Project_GOTY/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3J/6B9RJI3FDPCETRKXUXCQ4C.uasset",
+				"E:/Game/MyGitProject/Project_GOTY/Content/BP_ThirdPersonCharacter.uasset",
+				"E:/Game/MyGitProject/Project_GOTY/Content/Project_Folder/Characters/Character_Animation_Blueprint.uasset",
+				"E:/Game/MyGitProject/Project_GOTY/Content/StaminaWidget.uasset",
 				"C:/Users/Admin/Documents/GitHub/MyGitProject/Project_GOTY/Content/Project_Folder/Characters/Character_Animation_Blueprint.uasset",
 				"C:/Users/Admin/Documents/GitHub/MyGitProject/Project_GOTY/Content/Project_Folder/Characters/Animations/Crouched_Walk_Forward.uasset",
 				"C:/Users/Admin/Documents/GitHub/MyGitProject/Project_GOTY/Content/Project_Folder/Characters/Animations/Crouching_Idle.uasset",
@@ -54,7 +58,23 @@
 				"C:/Users/Admin/Documents/GitHub/MyGitProject/Project_GOTY/Content/Project_Folder/Characters/Crouching_To_Stand.uasset",
 				"C:/Users/Admin/Documents/GitHub/MyGitProject/Project_GOTY/Content/Project_Folder/Characters/Standing_To_Crouching.uasset",
 				"C:/Users/Admin/Documents/GitHub/MyGitProject/Project_GOTY/Content/Project_Folder/Characters/Char.uasset",
+<<<<<<< HEAD
 				"E:/Game/MyGitProject/Project_GOTY/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3J/6B9RJI3FDPCETRKXUXCQ4C.uasset",
+=======
+				"C:/Users/Admin/Documents/GitHub/MyGitProject/Project_GOTY/Content/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Admin/Documents/GitHub/MyGitProject/Project_GOTY/Content/Project_Folder/Characters/Animations/Crouched_Walk_Backward.uasset",
+				"C:/Users/Admin/Documents/GitHub/MyGitProject/Project_GOTY/Content/Project_Folder/Characters/Animations/Crouched_Walk_Diagonal_Left_Forward.uasset",
+				"C:/Users/Admin/Documents/GitHub/MyGitProject/Project_GOTY/Content/Characters/Mannequin_UE4/Meshes/SK_Mannequin_Skeleton.uasset",
+				"C:/Users/Admin/Documents/GitHub/MyGitProject/Project_GOTY/Content/Project_Folder/Characters/Animations/Crouched_Walk_Diagonal_Left_Backward.uasset",
+				"C:/Users/Admin/Documents/GitHub/MyGitProject/Project_GOTY/Content/Project_Folder/Characters/Animations/Crouched_Walk_Left.uasset",
+				"C:/Users/Admin/Documents/GitHub/MyGitProject/Project_GOTY/Content/Project_Folder/Characters/Animations/Crouched_Walk_Right.uasset",
+				"C:/Users/Admin/Documents/GitHub/MyGitProject/Project_GOTY/Content/Project_Folder/Characters/Animations/Crouched_Walk_Diagonal_Right_Forward.uasset",
+				"C:/Users/Admin/Documents/GitHub/MyGitProject/Project_GOTY/Content/Project_Folder/Characters/Animations/Crouched_Walk_Diagonal_Right_Backward.uasset",
+				"C:/Users/Admin/Documents/GitHub/MyGitProject/Project_GOTY/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3J/6B9RJI3FDPCETRKXUXCQ4C.uasset",
+				"C:/Users/Admin/Documents/GitHub/MyGitProject/Project_GOTY/Content/Project_Folder/Characters/Character_Blend_Space.uasset",
+				"C:/Users/Admin/Documents/GitHub/MyGitProject/Project_GOTY/Content/Project_Folder/Blueprints/Hud.uasset",
+				"C:/Users/Admin/Documents/GitHub/MyGitProject/Project_GOTY/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+>>>>>>> 2e4635fadff9b437211a2c6b9e38b367fbbc1c66
 				"E:/Game/MyGitProject/Project_GOTY/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/YA/U7DWA6ZZ14W82377RRXV6D.uasset",
 				"E:/Game/MyGitProject/Project_GOTY/Content/CrouchAnimation/NewBlendSpace.uasset",
 				"E:/Game/MyGitProject/Project_GOTY/Content/CrouchAnimation/Crouched_To_Standing.uasset",
@@ -62,8 +82,6 @@
 				"E:/Game/MyGitProject/Project_GOTY/Content/CrouchAnimation/Crouching_Idle.uasset",
 				"E:/Game/MyGitProject/Project_GOTY/Content/CrouchAnimation/Standing_To_Crouched.uasset",
 				"E:/Game/MyGitProject/Project_GOTY/Content/CrouchAnimation/CrouchBS.uasset",
-				"E:/Game/MyGitProject/Project_GOTY/Content/BP_ThirdPersonCharacter.uasset",
-				"E:/Game/MyGitProject/Project_GOTY/Content/Project_Folder/Characters/Character_Animation_Blueprint.uasset",
 				"E:/Game/MyGitProject/Project_GOTY/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/6L/N0I82VVO7T8FDL1TT2MAZV.uasset"
 			]
 		}
