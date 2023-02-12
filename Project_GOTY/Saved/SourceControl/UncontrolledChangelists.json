@@ -8,7 +8,21 @@
 				"C:/Users/Admin/Documents/GitHub/MyGitProject/Project_GOTY/Content/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/Admin/Documents/GitHub/MyGitProject/Project_GOTY/Content/StaminaWidget.uasset",
 				"C:/Users/Admin/Documents/GitHub/MyGitProject/Project_GOTY/Content/Splash/EdSplash.uasset",
-				"C:/Users/Admin/Documents/GitHub/MyGitProject/Project_GOTY/Content/Splash/Splash.uasset"
+				"C:/Users/Admin/Documents/GitHub/MyGitProject/Project_GOTY/Content/Splash/Splash.uasset",
+				"C:/Users/Admin/Documents/GitHub/MyGitProject/Project_GOTY/Content/Project_Folder/Characters/Animations/Prone_Forward.uasset",
+				"C:/Users/Admin/Documents/GitHub/MyGitProject/Project_GOTY/Content/Project_Folder/Characters/Animations/Prone_Idle.uasset",
+				"C:/Users/Admin/Documents/GitHub/MyGitProject/Project_GOTY/Content/Characters/Mannequin_UE4/Meshes/SK_Mannequin_Skeleton.uasset",
+				"C:/Users/Admin/Documents/GitHub/MyGitProject/Project_GOTY/Content/Project_Folder/Characters/Animations/Prone_To_Standing.uasset",
+				"C:/Users/Admin/Documents/GitHub/MyGitProject/Project_GOTY/Content/Project_Folder/Characters/Animations/Standing_To_Prone.uasset",
+				"C:/Users/Admin/Documents/GitHub/MyGitProject/Project_GOTY/Content/Project_Folder/Characters/Animations/Stop.uasset",
+				"C:/Users/Admin/Documents/GitHub/MyGitProject/Project_GOTY/Content/Project_Folder/Materials/EdSplash.uasset",
+				"C:/Users/Admin/Documents/GitHub/MyGitProject/Project_GOTY/Content/Project_Folder/Materials/Splash.uasset",
+				"C:/Users/Admin/Documents/GitHub/MyGitProject/Project_GOTY/Content/Project_Folder/Materials/Textures/EdSplash.uasset",
+				"C:/Users/Admin/Documents/GitHub/MyGitProject/Project_GOTY/Content/Project_Folder/Materials/Textures/Splash.uasset",
+				"C:/Users/Admin/Documents/GitHub/MyGitProject/Project_GOTY/Content/Project_Folder/Characters/Character_Animation_Blueprint.uasset",
+				"C:/Users/Admin/Documents/GitHub/MyGitProject/Project_GOTY/Content/Project_Folder/StaminaWidget.uasset",
+				"C:/Users/Admin/Documents/GitHub/MyGitProject/Project_GOTY/Content/Project_Folder/Blueprints/StaminaWidget.uasset",
+				"C:/Users/Admin/Documents/GitHub/MyGitProject/Project_GOTY/Content/Project_Folder/Blueprints/Stamina_Widget.uasset"
 			]
 		}
 	]
