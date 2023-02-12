@@ -6,7 +6,9 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/Admin/Documents/GitHub/MyGitProject/Project_GOTY/Content/BP_ThirdPersonCharacter.uasset",
-				"C:/Users/Admin/Documents/GitHub/MyGitProject/Project_GOTY/Content/StaminaWidget.uasset"
+				"C:/Users/Admin/Documents/GitHub/MyGitProject/Project_GOTY/Content/StaminaWidget.uasset",
+				"C:/Users/Admin/Documents/GitHub/MyGitProject/Project_GOTY/Content/Splash/EdSplash.uasset",
+				"C:/Users/Admin/Documents/GitHub/MyGitProject/Project_GOTY/Content/Splash/Splash.uasset"
 			]
 		}
 	]
