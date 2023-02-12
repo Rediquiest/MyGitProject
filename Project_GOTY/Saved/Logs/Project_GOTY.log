@@ -1200,3 +1200,4 @@ LogConfig: Set CVar [[r.Occlusion.SingleRHIThreadStall:1]]
 [2023.02.12-12.34.32:514][689]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
 [2023.02.12-12.35.03:802][684]LogDerivedDataCache: C:/Users/Admin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.102 and deleted 0 files with total size 0 MiB. Scanned 3600 files in 3578 folders with total size 653 MiB.
 [2023.02.12-12.35.24:759][720]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.02.12-12.36.56:946][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
