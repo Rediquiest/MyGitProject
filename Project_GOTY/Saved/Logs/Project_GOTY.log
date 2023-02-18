@@ -989,3 +989,63 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.02.18-14.45.05:214][  0]Warning: In asset 'None', there is an enum property of type 'EIOSVersion' with an invalid value of 'IOS_14'
 [2023.02.18-14.45.05:228][  0]LogObj: Error: LoadConfig (/Script/IOSRuntimeSettings.Default__IOSRuntimeSettings): import failed for MinimumiOSVersion in: IOS_14
 [2023.02.18-14.45.07:519][  0]LogFileCache: Scanning file cache for directory 'E:/Game/MyGitProject/Project_GOTY/Content/' took 0.02s
+[2023.02.18-14.45.10:880][  0]LogEditorDomain: Display: Class /Script/AnimationData.AnimationSequencerDataModel is imported by a package but does not exist in memory. EditorDomain keys for packages using it will be invalid if it still exists.
+	To clear this message, resave packages that use the deleted class, or load its module earlier than the packages that use it are referenced.
+[2023.02.18-14.45.11:251][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.02.18-14.45.13:759][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.02.18-14.45.13:985][  0]SourceControl: Source control is disabled
+[2023.02.18-14.45.14:093][  0]LogUnrealEdMisc: Loading editor; pre map load, took 123.196
+[2023.02.18-14.45.14:271][  0]Cmd: MAP LOAD FILE="../../../../../Game/MyGitProject/Project_GOTY/Content/ThirdPerson/Maps/ThirdPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.02.18-14.45.14:350][  0]LightingResults: New page: Lighting Build
+[2023.02.18-14.45.15:100][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.02.18-14.45.15:387][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.18-14.45.15:523][  0]MapCheck: New page: Map Check
+[2023.02.18-14.45.15:523][  0]LightingResults: New page: Lighting Build
+[2023.02.18-14.45.16:470][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.18-14.45.17:303][  0]LogUObjectHash: Compacting FUObjectHashTables data took  46.12ms
+[2023.02.18-14.45.22:133][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonMap'.
+[2023.02.18-14.45.22:140][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.18-14.45.22:141][  0]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.02.18-14.45.22:231][  0]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.02.18-14.45.22:234][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.02.18-14.45.22:235][  0]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=1, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.02.18-14.45.29:425][  0]LogContentBundle: [Container: ThirdPersonMap] Creating new contrainer.
+[2023.02.18-14.45.29:426][  0]LogWorldPartition: Display: WorldPartition initialize took 7.19 sec
+[2023.02.18-14.45.31:148][  0]LogEditorServer: Finished looking for orphan Actors (0.010 secs)
+[2023.02.18-14.45.31:636][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.02.18-14.45.31:670][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.18-14.45.31:705][  0]MapCheck: Warning: Actor needs resave WorldDataLayers (/Game/ThirdPerson/Maps/ThirdPersonMap) 
+[2023.02.18-14.45.31:727][  0]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 45,248ms to complete.
+[2023.02.18-14.45.32:114][  0]LogFileHelpers: Loading map 'ThirdPersonMap' took 17.869
+[2023.02.18-14.45.35:891][  0]LogUnrealEdMisc: Total Editor Startup Time, took 145.020
+[2023.02.18-14.45.35:946][  0]LogShaderCompilers: Display: ================================================
+[2023.02.18-14.45.35:996][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.18-14.45.35:996][  0]LogShaderCompilers: Display: Total job queries 14, among them cache hits 0 (0.00%)
+[2023.02.18-14.45.35:996][  0]LogShaderCompilers: Display: Tracking 14 distinct input hashes that result in 14 distinct outputs (100.00%)
+[2023.02.18-14.45.36:060][  0]LogShaderCompilers: Display: RAM used: 0.08 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.01%
+[2023.02.18-14.45.36:060][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.02.18-14.45.36:060][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.02.18-14.45.36:060][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.02.18-14.45.36:060][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.02.18-14.45.36:061][  0]LogShaderCompilers: Display: ================================================
+[2023.02.18-14.45.36:939][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.02.18-14.45.36:939][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.02.18-14.45.36:939][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.02.18-14.45.37:413][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.18-14.45.37:475][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.18-14.45.37:484][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.18-14.45.37:493][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.18-14.45.39:023][  0]LogPakFile: Display: Mounted Pak file 'E:/UE5/UE_5.1/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2023.02.18-14.45.39:075][  0]LogPakFile: Display: Mounted Pak file 'E:/UE5/UE_5.1/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2023.02.18-14.45.39:090][  0]LogPakFile: Display: Mounted Pak file 'E:/UE5/UE_5.1/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2023.02.18-14.45.39:107][  0]LogPakFile: Display: Mounted Pak file 'E:/UE5/UE_5.1/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2023.02.18-14.45.39:132][  0]LogPakFile: Display: Mounted Pak file 'E:/UE5/UE_5.1/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2023.02.18-14.45.39:142][  0]LogPakFile: Display: Mounted Pak file 'E:/UE5/UE_5.1/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2023.02.18-14.45.39:148][  0]LogPakFile: Display: Mounted Pak file 'E:/UE5/UE_5.1/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2023.02.18-14.45.39:150][  0]LogPakFile: Display: Mounted Pak file 'E:/UE5/UE_5.1/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2023.02.18-14.45.39:152][  0]LogPakFile: Display: Mounted Pak file 'E:/UE5/UE_5.1/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2023.02.18-14.45.39:153][  0]LogPakFile: Display: Mounted Pak file 'E:/UE5/UE_5.1/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2023.02.18-14.45.40:223][  0]LogSlate: Took 0.030994 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.02.18-14.45.40:411][  0]LogSlate: Took 0.012796 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.02.18-14.45.40:442][  0]LogSlate: Took 0.010524 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.02.18-14.45.40:572][  0]LogViewport: Scene viewport resized to 1544x902, mode Windowed.
