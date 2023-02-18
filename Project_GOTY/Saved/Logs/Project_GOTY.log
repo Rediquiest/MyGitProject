@@ -1049,3 +1049,35 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.02.18-14.45.40:411][  0]LogSlate: Took 0.012796 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
 [2023.02.18-14.45.40:442][  0]LogSlate: Took 0.010524 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
 [2023.02.18-14.45.40:572][  0]LogViewport: Scene viewport resized to 1544x902, mode Windowed.
+[2023.02.18-14.45.44:091][  0]LogStall: Startup...
+[2023.02.18-14.45.44:093][  0]LogStall: Startup complete.
+[2023.02.18-14.45.44:205][  0]LogLoad: (Engine Initialization) Total time: 153.39 seconds
+[2023.02.18-14.45.44:205][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.02.18-14.45.45:038][  0]LogAssetRegistry: Asset discovery search completed in 103.0736 seconds
+[2023.02.18-14.45.45:279][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.022824 seconds (updated 0 objects)
+[2023.02.18-14.45.45:413][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.02.18-14.45.45:978][  0]LogSlate: Took 0.012875 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.02.18-14.45.47:148][  1]LogFileCache: Retrieving MD5 hashes for directory 'E:/Game/MyGitProject/Project_GOTY/Content/' took 2.25s
+[2023.02.18-14.45.48:027][  1]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.02.18-14.45.48:054][  1]LogStall: Shutdown...
+[2023.02.18-14.45.48:060][  1]LogStall: Shutdown complete.
+[2023.02.18-14.45.48:253][  1]LogSlate: Window 'Project_GOTY - Unreal Editor' being destroyed
+[2023.02.18-14.45.48:748][  2]Cmd: QUIT_EDITOR
+[2023.02.18-14.45.48:754][  2]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.02.18-14.45.48:847][  2]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.02.18-14.45.48:847][  2]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2023.02.18-14.45.48:866][  2]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2023.02.18-14.45.49:146][  2]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.18-14.45.49:146][  2]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.18-14.45.49:231][  2]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2023.02.18-14.45.49:426][  2]LogStylusInput: Shutting down StylusInput subsystem.
+[2023.02.18-14.45.49:508][  2]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2023.02.18-14.45.50:047][  2]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.02.18-14.45.50:047][  2]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.02.18-14.45.50:047][  2]LogAudio: Display: Audio Device unregistered from world 'ThirdPersonMap'.
+[2023.02.18-14.45.50:102][  2]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.02.18-14.45.50:104][  2]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.02.18-14.45.50:126][  2]LogAudio: Display: Audio Device Manager Shutdown
+[2023.02.18-14.45.50:185][  2]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.02.18-14.45.50:195][  2]LogExit: Preparing to exit.
+[2023.02.18-14.45.51:710][  2]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
