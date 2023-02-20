@@ -11,5 +11,8 @@
 				"Editor"
 			]
 		}
+	],
+	"AdditionalPluginDirectories": [
+		"../../../../Downloads/MixamoAnimToUE5/MixamoAnimToUE5/MixamoAnimToUE5"
 	]
 }
